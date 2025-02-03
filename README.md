@@ -25,7 +25,7 @@ FORK THE REPOSITORY (Repo)
 
 Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Botllee/KING-AMDI-AI-pair' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Botllee/EUSEBIUS-PRO-PAIR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 # `Owner`
 
  <a href="https://github.com/Botllee"><img src="https://telegra.ph/file/cb0ca30c5924b296bd332.jpg" width="250" height="250" alt="Giftedmaurice"/></a>
